@@ -13,6 +13,7 @@ $Saudacao = "Olá, ".$nome."! Bem vindo ao nosso site";
 echo $Saudacao;
 
 echo '<br><br>';
+
 //(===) Identico
 $valor1=10;
 $valor2="10";
