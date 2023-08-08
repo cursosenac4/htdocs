@@ -1,5 +1,7 @@
 <?php 
 
+// Criação de variaveis para conexão com o banco de dados
+
 $host = 'localhost';
 $usuario = 'root';
 $senha = '';
