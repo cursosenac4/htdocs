@@ -14,6 +14,20 @@ echo $Saudacao;
 
 echo '<br><br>';
 
+//(==) Igual
+$valor1=10;
+$valor2="10";
+if ($valor1 == $valor2){
+
+    echo "Os valores são iguais";
+} else {
+
+    echo "Os valores são diferentes";
+
+}
+
+echo '<br><br>';
+
 //(===) Identico
 $valor1=10;
 $valor2="10";
